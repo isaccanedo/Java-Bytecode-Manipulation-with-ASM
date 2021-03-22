@@ -313,7 +313,7 @@ Agora definimos nossa classe de implementação premain em um arquivo de manifes
         <archive>
             <manifestEntries>
                 <Premain-Class>
-                    com.baeldung.examples.asm.instrumentation.Premain
+                    com.isac.examples.asm.instrumentation.Premain
                 </Premain-Class>
                 <Can-Retransform-Classes>
                     true
